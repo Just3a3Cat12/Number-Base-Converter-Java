@@ -77,10 +77,6 @@ Enter number in base 16 to convert to base 2 (To go back type /back)
 Goodbye!
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
